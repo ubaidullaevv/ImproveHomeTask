@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OFk2UYRM/U64kNcZWJ5V4730wDJbbgtTpXYLLxI5TSrWIIe73NHBFWdQzGrlo7+xy9taL0K/aXHn0ueaClyxqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\АДМИН\\Desktop\\StudentWithDupper\\Library\\Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\АДМИН\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\АДМИН\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\АДМИН\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\АДМИН\\.nuget\\packages\\npgsql\\9.0.1\\npgsql.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
